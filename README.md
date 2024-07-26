@@ -10,3 +10,10 @@ A mobile application that monitors and displays temperature, humidity, and noise
 * **Humidity Tab**: Displays current humidity readings and historical data
 * **Noise Levels Tab**: Displays current noise levels and historical data
 * **Account Settings**: User profile management and settings
+
+## Contributors
+
+* Badong, Irish Beryl C.
+* Perez, Jesart Jhondale A.
+* Ramirez, Jerrold Russell M.
+* Vargas, Andrea Paula B.
