@@ -13,7 +13,7 @@ A mobile application that monitors and displays temperature, humidity, and noise
 
 ## Members
 
-* (https://github.com/BadongIrishBeryl)
+* [Irish Beryl C. Badong](https://github.com/BadongIrishBeryl)
 * Perez, Jesart Jhondale A.
 * Ramirez, Jerrold Russell M.
 * Vargas, Andrea Paula B.
