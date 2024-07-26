@@ -13,7 +13,7 @@ A mobile application that monitors and displays temperature, humidity, and noise
 
 ## Youtube Links
 * **Figma UI demo**: https://youtu.be/irTihuf4a0g
-* **Android UI demo**:
+* **Android UI demo**: https://youtu.be/z_trAkvpuAY
   
 ## Technical Details
 * Built with **Flutter**, a cross-platform mobile app development framework.
