@@ -12,7 +12,11 @@ A mobile application that monitors and displays temperature, humidity, and noise
 * **Account Settings**: User profile management and settings
 
 ## Sample UI
-![Screenshot 2024-07-26 193009](https://github.com/user-attachments/assets/0bf9793a-4c93-4419-b663-46e4a9442632)
+![Screenshot 2024-07-26 193009](https://github.com/user-attachments/assets/0bf9793a-4c93-4419-b663-46e4a9442632) ![Screenshot 2024-07-26 193026](https://github.com/user-attachments/assets/034e65da-70d4-4d81-9517-227c3946af9b)
+![Screenshot 2024-07-26 193047](https://github.com/user-attachments/assets/0f305e91-ca2b-4620-bcff-6e2e49cd1a5b) ![Screenshot 2024-07-26 193058](https://github.com/user-attachments/assets/6fd766bd-af56-439d-b06a-1537212bd32b)
+![Screenshot 2024-07-26 193109](https://github.com/user-attachments/assets/8566df4d-69c9-4240-82ab-5f9bee22d24f) ![Screenshot 2024-07-26 193119](https://github.com/user-attachments/assets/2b67a03e-85d2-48b1-8621-9c57e008f437)
+![Screenshot 2024-07-26 193132](https://github.com/user-attachments/assets/1ffd5395-eebd-4ddd-968c-9a02ecc8c4d5) ![Screenshot 2024-07-26 193143](https://github.com/user-attachments/assets/32331800-67a4-4f21-956f-32bac9ebea48)
+
 
 ## Members
 
