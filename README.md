@@ -40,5 +40,5 @@ A mobile application that monitors and displays temperature, humidity, and noise
 
 * [Badong,Irish Beryl C.](https://github.com/BadongIrishBeryl)
 * [Perez, Jesart Jhondale A.](https://github.com/JAPPPPPPPP)
-* [Ramirez, Jerrold Russell M](https://github.com/Jjerrold)
+* [Ramirez, Jerrold Russell M.](https://github.com/Jjerrold)
 * [Vargas, Andrea Paula B.](https://github.com/VargasAndreaPaula)
