@@ -4,6 +4,7 @@
 
 A mobile application that monitors and displays temperature, humidity, and noise levels with dashboard and account settings.
 The simple dashboard lets you quickly see and adjust your data, while account settings let you personalize the app to fit your needs.
+The app is designed to be easy to use, making it effortless to monitor your environment.
 
 ## Features
 
