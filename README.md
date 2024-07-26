@@ -16,11 +16,12 @@ A mobile application that monitors and displays temperature, humidity, and noise
 * **Android UI demo**:
   
 ## Technical Details
-* Built with **Flutter**, a cross-platform mobile app development framework
-* Developed using **Android Studio**, a popular integrated development environment (IDE)
+* Built with **Flutter**, a cross-platform mobile app development framework.
+* Developed using **Android Studio**, a popular integrated development environment (IDE).
+* Used **Dart**, a programming language used for developing Flutter apps.
 
 ## Getting Started
-* Clone the repository: git clone https://github.com/Jjerrold/App-Dev-Final-Project.git
+* Clone the repository: 'git clone https://github.com/Jjerrold/App-Dev-Final-Project.git'
 * Open the project in Visual Code or Android Studio
 * Run the app on an emulator or physical device: flutter run
 
