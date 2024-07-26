@@ -11,6 +11,9 @@ A mobile application that monitors and displays temperature, humidity, and noise
 * **Noise Levels Tab**: Displays current noise levels and historical data
 * **Account Settings**: User profile management and settings
 
+## Sample UI
+![Screenshot 2024-07-26 193009](https://github.com/user-attachments/assets/0bf9793a-4c93-4419-b663-46e4a9442632)
+
 ## Members
 
 * [Badong,Irish Beryl C.](https://github.com/BadongIrishBeryl)
