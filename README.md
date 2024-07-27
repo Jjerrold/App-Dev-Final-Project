@@ -6,6 +6,9 @@ A mobile application that monitors and displays temperature, humidity, and noise
 The simple dashboard lets you quickly see and adjust your data, while account settings let you personalize the app to fit your needs.
 The app is designed to be easy to use, making it effortless to monitor your environment.
 
+Envirosense aligns with SDG 11 by empowering users to monitor environmental parameters such as temperature, humidity, and noise through an intuitive dashboard and personalized settings. 
+Our app promotes sustainable living and enhances urban resilience by making real-time environmental data accessible and actionable for individuals and communities.
+
 ## Features
 
 * **Temperature Tab**: Displays current temperature readings and historical data
